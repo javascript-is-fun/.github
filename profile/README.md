@@ -1,3 +1,18 @@
+<div>
+    <img src="https://raw.githubusercontent.com/zrosenbauer/art/main/banners/banner_archived.png" alt="Archived Project" />
+    <br />
+    <br />
+    <p align="center">
+        Polywork discontinued <a href="https://blog.polywork.com/polywork-founder-product-update/">clubs</a> so we are archiving this organization & repository. 
+        <br />
+        In the future we might bring this back...outside of Polywork but the founding crew is a too busy atm.
+    </p>
+</div>
+<hr />
+<br />
+<br />
+<br />
+
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="100" height="100"/>
 </p>
